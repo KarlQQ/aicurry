@@ -50,7 +50,7 @@ jupyter notebook main.ipynb
 
 #### 2. 按照順序執行cell
 ```gherkin
-    每個cell執行之前請參考上方的註解
+每個cell執行之前請參考上方的註解
 ```
 
 ### 參考
